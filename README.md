@@ -1,0 +1,2 @@
+# capture
+just an example
